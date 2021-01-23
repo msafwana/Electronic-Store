@@ -1,0 +1,7 @@
+type = "book"
+productID = "012345"
+description = "Java programming"
+price = "25.99"
+year = "2020"
+authors = "mir ali"
+publisher = "Undergrad uofg"
